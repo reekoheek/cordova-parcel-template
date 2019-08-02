@@ -1,0 +1,33 @@
+{
+  "name": "cordova-parcel-template",
+  "version": "1.0.0",
+  "description": "Cordova template use parcel bundler used by `cordova create` command.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reekoheek/cordova-parcel-template.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova:template"
+  ],
+  "author": "Ganesha <reekoheek@gmail.com> (http://sagara.id)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reekoheek/cordova-parcel-template/issues"
+  },
+  "homepage": "https://github.com/reekoheek/cordova-parcel-template#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.1.0",
+    "eslint-config-standard": "^13.0.1",
+    "eslint-config-xinix": "^1.1.4",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}
