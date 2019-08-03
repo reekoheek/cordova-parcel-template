@@ -1,12 +1,10 @@
-# cordova-parcel-template
+# Cordova Parcel Template
 
 This is cordova template using parcel to build.
 
 ## First init
 
 ```sh
-cordova create myApp --template cordova-parcel-template
-cd myApp
 npm i
 cordova platform add android
 ```
